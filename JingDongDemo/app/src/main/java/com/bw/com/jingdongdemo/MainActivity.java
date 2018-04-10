@@ -9,6 +9,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private int i=3;
+    //Git过的
     private Handler handler=new Handler(){
         @Override
         public void handleMessage(Message msg) {
